@@ -1,0 +1,11 @@
+{
+  "title": "Indmeldelse",
+  "intro": "Udfyld formularen herunder for at blive støttemedlem. Du modtager herefter et indbetalingskort, som også fungerer som medlemskort.",
+  "membershipTypes": [
+    { "value": "Enkeltperson", "label": "Enkeltperson", "price": "75 kr. årligt" },
+    { "value": "Ægtepar", "label": "Ægtepar", "price": "100 kr. årligt" },
+    { "value": "Forening/virksomhed", "label": "Forening/virksomhed", "price": "300 kr. årligt" }
+  ],
+  "successMessage": "Tak for din indmeldelse! Vi har modtaget dine oplysninger og sender dig et indbetalingskort.",
+  "errorMessage": "Der skete en fejl, og din indmeldelse blev ikke sendt. Prøv igen, eller skriv til sekretariat@hospicefyn-sf.dk."
+}

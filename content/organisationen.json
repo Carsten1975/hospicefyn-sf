@@ -1,0 +1,54 @@
+{
+  "title": "Organisation",
+  "members": [
+    {
+      "name": "Linda Jensen",
+      "role": "Formand",
+      "address": "Klokkens Kvarter 257, 5220 Odense SØ",
+      "phone": "4079 8898",
+      "photo": "/wp-content/uploads/2023/07/thumbnail_DSC09637-1-Billede-Linda-Jensen.jpg"
+    },
+    {
+      "name": "Jørn Kaltoft Nielsen",
+      "role": "Næstformand",
+      "address": "Plantagevej 61, 5462 Morud",
+      "phone": "5188 8767",
+      "photo": "/wp-content/uploads/2023/07/thumbnail_DSC09602-1-billede-Joern-Kaltoft-Nielsen.jpg"
+    },
+    {
+      "name": "Kirsten Hansen",
+      "role": "Sekretariat/Sekretær",
+      "address": "Stenløkkeparken 43, 5450 Otterup",
+      "phone": "5189 4510",
+      "photo": "/wp-content/uploads/2023/07/thumbnail_DSC09611-1-billede-Kirsten-Hansen.jpg"
+    },
+    {
+      "name": "Susanne Andreasen",
+      "role": "Kasserer",
+      "address": "Snestrup Have 37, st. tv., 5210 Odense NV",
+      "phone": "2373 9645",
+      "photo": "/wp-content/uploads/2023/07/thumbnail_DSC09623-1-billede-Susanne-Andreasen.jpg"
+    },
+    {
+      "name": "Niels Aaskov-Hansen",
+      "role": "Bestyrelsesmedlem",
+      "address": "Gråbrødre Plads 1, 1. sal lejl. 246, 5000 Odense C",
+      "phone": "6083 6742",
+      "photo": "/wp-content/uploads/2023/07/thumbnail_DSC09644-1-billede-Niels-Aaskov-Hansen.jpg"
+    },
+    {
+      "name": "Ellen Jørgensen",
+      "role": "Bestyrelsesmedlem",
+      "address": "Løkkevej 42, 5250 Odense SV",
+      "phone": "4022 1438",
+      "photo": "/wp-content/uploads/2023/07/thumbnail_DSC09614-1-Billede-Ellen-Joergensen.jpg"
+    },
+    {
+      "name": "Keld Andersen",
+      "role": "Suppleant",
+      "address": "Torvet 32B, 5400 Bogense",
+      "phone": "2148 3565",
+      "photo": "/wp-content/uploads/2023/07/thumbnail_DSC09593-1-Billede-Keld-Andersen.jpg"
+    }
+  ]
+}

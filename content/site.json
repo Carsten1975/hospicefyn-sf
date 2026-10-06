@@ -1,0 +1,56 @@
+{
+  "name": "Støtteforening for Hospicearbejde",
+  "tagline": "Støtteforening for Hospicearbejde er en almen velgørende forening som har til formål at støtte hospicearbejde",
+  "description": "Støtteforening for Hospicearbejde er en almen velgørende forening som har til formål at støtte hospicearbejde i Odense",
+  "email": "sekretariat@hospicefyn-sf.dk",
+  "logoWhite": "/wp-content/uploads/2023/07/logo-hvid.png",
+  "logoBlack": "/wp-content/uploads/2023/07/logo-sort-1.png",
+  "backgrounds": {
+    "forside": "/images/baggrund-lys.jpg",
+    "tilskud": "/images/baggrund-haender.jpg",
+    "cta": "/images/baggrund-hospice.jpg",
+    "indmeldelse": "/images/baggrund-lys.jpg",
+    "organisationen": "/images/baggrund-lys.jpg",
+    "vedtaegter": "/images/baggrund-lys.jpg",
+    "generalforsamling": "/images/baggrund-lys.jpg",
+    "cookiepolitik": "/images/baggrund-lys.jpg"
+  },
+
+  "newsletter": {
+    "label": "Nyhedsbrev",
+    "file": "/wp-content/uploads/2026/04/nyhedsbrev-2026.pdf"
+  },
+
+  "menu": [
+    { "label": "Indmeldelse", "href": "/indmeldelse/" },
+    { "label": "Organisationen", "href": "/organisationen/" },
+    { "label": "Vedtægter", "href": "/vedtaegter/" },
+    { "label": "Generalforsamling & referater", "href": "/generalforsamling-referater/" },
+    { "label": "Nyhedsbrev", "href": "/wp-content/uploads/2026/04/nyhedsbrev-2026.pdf", "external": true }
+  ],
+
+  "frontpageButtons": [
+    { "label": "Indkaldelse til generalforsamling", "href": "/wp-content/uploads/2026/04/Indkaldelse-til-generalforsamling-2026.pdf" },
+    { "label": "Nyhedsbrev", "href": "/wp-content/uploads/2026/04/nyhedsbrev-2026.pdf" }
+  ],
+
+  "support": {
+    "title": "tilskud & støtte",
+    "items": [
+      { "icon": "leaf", "title": "Udsmykning", "text": "Vi giver tilskud til særlige ønsker og udsmykning af Hospice Fyn." },
+      { "icon": "person", "title": "Frivillig", "text": "Vi støtter det frivillige arbejde på Hospice Fyn." },
+      { "icon": "heartbeat", "title": "Forskning og behandling", "text": "Vi yder tilskud til fremme af forskning i palliativ behandling og efteruddannelse af personale." },
+      { "icon": "bed", "title": "Beboere og pårørende", "text": "Vi yder støtte til beboere og pårørende med tilknytning til Hospice Fyn." }
+    ]
+  },
+
+  "cta": {
+    "title": "gør en forskel i dag",
+    "text": "Med en indmeldelse i Støtteforening for Hospicearbejde, er du med til økonomisk at støtte det frivillige arbejde.",
+    "button": "indmeldelse"
+  },
+
+  "footer": {
+    "copyright": "© Copyright 2023 Støtteforening for Hospicearbejde | All rights reserved"
+  }
+}
